@@ -1,7 +1,19 @@
 .App {
   text-align: center;
+  font-family: 'Intro-Bold';
+  font-weight: 700;
+  font-size: 30px;
 }
-
+.test{
+  font-family: 'Intro-Book';
+  font-weight: 400;
+  font-size: 14px;
+}
+.test-2{
+  font-family: 'Intro-Regular';
+  font-weight: 400;
+  font-size: 16px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

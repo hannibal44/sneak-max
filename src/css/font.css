@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'Intro-Bold';
+    src: local('Intro'), url('../font/Intro-Bold.ttf'), format('opentype');
+}
+
+@font-face {
+    font-family: 'Intro-Book';
+    src: local('Intro'), url('../font/Intro-Book.ttf'), format('opentype');
+}
+
+@font-face {
+    font-family: 'Intro-Regular';
+    src: local('Intro'), url('../font/Intro-Regular.ttf'), format('opentype');
+}
